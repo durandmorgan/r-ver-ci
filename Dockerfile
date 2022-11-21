@@ -20,12 +20,17 @@ RUN apt-get update \
     libcairo2-dev \
     libcurl4-openssl-dev \
     libgit2-dev \
+    libharfbuzz-dev \ 
     libicu-dev \
     libfontconfig1-dev \
+    libfreetype6-dev \
+    libfribidi-dev \
     libgdal-dev \
+    libjpeg-dev \
     libpng-dev \
     libssh2-1-dev \
     libssl-dev \
+    libtiff5-dev \
     libxml2-dev \
     libv8-dev \ 
     make \
